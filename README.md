@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- github-stats-box start -->
-<!-- github-stats-box end -->
+ <!-- steam-box-playtime start -->
+
+ <!-- steam-box-playtime end -->

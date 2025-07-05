@@ -10,8 +10,8 @@ jobs:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
     env:
-      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-      STEAM_ID: ${{ secrets.STEAM_ID }}
+      STEAM_API_KEY: 9CC028F30DF0DF205557D5362DF33771
+      STEAM_ID: 76561198448710290
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
       STEAM_OPTION: ALLTIME_AND_RECENT

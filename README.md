@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Morgan5000001/Morgan5000001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <!-- steam-box-playtime start -->
+# 👋 Hello, I'm Florian
 
- <!-- steam-box-playtime end -->
+🎮 I'm a game development student currently specializing in Unreal Engine.  
+I'm especially focused on gameplay systems, and I've been working a lot with the Gameplay Ability System (GAS), both in Blueprint and C++.
+
+I'm passionate about building flexible, modular gameplay architectures and experimenting with networked features in Unreal Engine.
+
+---
+
+## 🔧 Skills
+
+- Unreal Engine (Blueprint & C++)
+- Gameplay Ability System (GAS)
+- Git, Perforce
+- Game Jams participant
+
+---
+
+## 🎮 My Steam Playtime
+<!-- steam-box start -->
+<!-- steam-box end -->
+
+---
+
+📫 Feel free to reach out: morgan.lac2002@gmail.com

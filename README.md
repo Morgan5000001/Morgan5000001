@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm Florian
+# 👋 Hello, I'm Morgan
 
 🎮 I'm a game development student currently specializing in Unreal Engine.  
 I'm especially focused on gameplay systems, and I've been working a lot with the Gameplay Ability System (GAS), both in Blueprint and C++.

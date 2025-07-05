@@ -57,4 +57,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime end -->
 ---
 
+## Projet
+Bill's Savon Tycoon
+- https://globalgamejam.org/games/2025/billssavon-5
+
 📫 Feel free to reach out: morgan.lac2002@gmail.com

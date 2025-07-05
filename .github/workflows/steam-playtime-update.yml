@@ -9,6 +9,9 @@ jobs:
   build:
     name: Update-steam-playtime
     runs-on: ubuntu-latest
+    # Add this permissions block here
+    permissions:
+      contents: write
     env:
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}

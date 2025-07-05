@@ -32,10 +32,13 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ---
 
 ## 🎮 My Steam Playtime
-<!-- steam-box start -->
+<!-- steam-box-recent start -->
+<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
+<!-- steam-box-recent end -->
 
-<!-- steam-box end -->
-
+<!-- steam-box-playtime start -->
+<!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
+<!-- steam-box-playtime end -->
 ---
 
 📫 Feel free to reach out: morgan.lac2002@gmail.com

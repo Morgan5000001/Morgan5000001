@@ -33,10 +33,26 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 
 ## 🎮 My Steam Playtime
 <!-- steam-box-recent start -->
+🎮 Recently played Steam games
+```text
+🎮 REMATCH                          🕘 30 hrs 44 mins
+🎮 Supermarket Together             🕘 20 hrs 57 mins
+🎮 PEAK                             🕘 10 hrs 18 mins
+🎮 Soulstone Survivors              🕘 8 hrs 17 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 266 hrs 41 mins
+```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
 
 <!-- steam-box-playtime start -->
+🎮 Steam playtime leaderboard
+```text
+🎮 BLEACH Brave Souls - 3D Action   🕘 266 hrs 41 mins
+🎮 Path of Exile 2                  🕘 157 hrs 54 mins
+🎮 Waven                            🕘 96 hrs 21 mins
+🎮 Albion Online                    🕘 80 hrs 56 mins
+🎮 Clair Obscur: Expedition 33      🕘 65 hrs 18 mins
+```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->
 ---

@@ -35,7 +35,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 REMATCH                          🕘 30 hrs 44 mins
+🎮 REMATCH                          🕘 31 hrs 13 mins
 🎮 Supermarket Together             🕘 20 hrs 57 mins
 🎮 Soulstone Survivors              🕘 11 hrs 6 mins
 🎮 PEAK                             🕘 10 hrs 18 mins

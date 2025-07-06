@@ -37,8 +37,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 REMATCH                          🕘 30 hrs 44 mins
 🎮 Supermarket Together             🕘 20 hrs 57 mins
+🎮 Soulstone Survivors              🕘 11 hrs 6 mins
 🎮 PEAK                             🕘 10 hrs 18 mins
-🎮 Soulstone Survivors              🕘 8 hrs 17 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 266 hrs 41 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

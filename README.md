@@ -39,7 +39,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Supermarket Together             🕘 20 hrs 57 mins
 🎮 Soulstone Survivors              🕘 11 hrs 6 mins
 🎮 PEAK                             🕘 10 hrs 18 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 266 hrs 41 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 267 hrs 2 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -47,7 +47,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 266 hrs 41 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 267 hrs 2 mins
 🎮 Path of Exile 2                  🕘 157 hrs 54 mins
 🎮 Waven                            🕘 96 hrs 21 mins
 🎮 Albion Online                    🕘 80 hrs 56 mins

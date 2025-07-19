@@ -36,8 +36,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 V Rising                         🕘 12 hrs 30 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 271 hrs 39 mins
 🎮 Soulstone Survivors              🕘 11 hrs 6 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 271 hrs 19 mins
 🎮 Path of Exile 2                  🕘 158 hrs 44 mins
 🎮 REMATCH                          🕘 31 hrs 13 mins
 ```
@@ -47,7 +47,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 271 hrs 19 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 271 hrs 39 mins
 🎮 Path of Exile 2                  🕘 158 hrs 44 mins
 🎮 Waven                            🕘 96 hrs 21 mins
 🎮 Albion Online                    🕘 80 hrs 56 mins

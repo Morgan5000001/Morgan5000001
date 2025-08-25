@@ -56,7 +56,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ---
 
 ## Projet
-Bill's Savon Tycoon
+Bill's Savon Tycoon (GGJ 2025)
 - https://globalgamejam.org/games/2025/billssavon-5
 
+Edge of Nest0r (Mega Stack O Jam)
+- https://itch.io/jam/mega-stack-o-jam/rate/3828958
 📫 Feel free to reach out: morgan.lac2002@gmail.com

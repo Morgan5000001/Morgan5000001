@@ -36,7 +36,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 320 hrs 44 mins
-🎮 Soulstone Survivors              🕘 11 hrs 42 mins
+🎮 Stardew Valley                   🕘 56 hrs 2 mins
+🎮 Soulstone Survivors              🕘 13 hrs 53 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

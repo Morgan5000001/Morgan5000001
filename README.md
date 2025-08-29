@@ -37,7 +37,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 Soulstone Survivors              🕘 14 hrs 5 mins
 🎮 Stardew Valley                   🕘 56 hrs 2 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 320 hrs 52 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 321 hrs 9 mins
+🎮 Path of Exile 2                  🕘 158 hrs 45 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -45,8 +46,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 320 hrs 52 mins
-🎮 Path of Exile 2                  🕘 158 hrs 44 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 321 hrs 9 mins
+🎮 Path of Exile 2                  🕘 158 hrs 45 mins
 🎮 Waven                            🕘 96 hrs 21 mins
 🎮 Albion Online                    🕘 80 hrs 56 mins
 🎮 Clair Obscur: Expedition 33      🕘 65 hrs 18 mins

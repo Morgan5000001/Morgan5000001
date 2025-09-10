@@ -38,8 +38,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Path of Exile 2                  🕘 209 hrs 12 mins
 🎮 PEAK                             🕘 15 hrs 3 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 325 hrs 7 mins
+🎮 Black Myth: Wukong               🕘 2 hrs 55 mins
 🎮 NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS 🕘 31 hrs 20 mins
-🗡️ Baldur's Gate 3                  🕘 1 hrs 27 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

@@ -36,7 +36,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Path of Exile 2                  🕘 209 hrs 12 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 328 hrs 13 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 328 hrs 31 mins
 🎮 PEAK                             🕘 15 hrs 3 mins
 🎮 Black Myth: Wukong               🕘 4 hrs 0 mins
 🎮 NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS 🕘 31 hrs 20 mins
@@ -47,7 +47,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 328 hrs 13 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 328 hrs 31 mins
 🎮 Path of Exile 2                  🕘 209 hrs 12 mins
 🎮 Waven                            🕘 96 hrs 21 mins
 🎮 Albion Online                    🕘 80 hrs 56 mins

@@ -36,10 +36,10 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 349 hrs 6 mins
-🎮 Satisfactory                     🕘 40 hrs 56 mins
+🎮 Satisfactory                     🕘 46 hrs 31 mins
 🎮 EA SPORTS FC 25                  🕘 7 hrs 13 mins
+🎮 Buckshot Roulette                🕘 1 hrs 5 mins
 🎮 Roadside Research Demo           🕘 0 hrs 52 mins
-🎮 Waven                            🕘 96 hrs 49 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

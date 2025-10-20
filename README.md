@@ -35,8 +35,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 362 hrs 21 mins
 🎮 Megabonk                         🕘 13 hrs 14 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 362 hrs 21 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins
 🃏 Balatro                          🕘 14 hrs 58 mins
 🎮 Blue Protocol: Star Resonance    🕘 0 hrs 39 mins

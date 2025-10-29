@@ -35,7 +35,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Megabonk                         🕘 18 hrs 21 mins
+🎮 Megabonk                         🕘 18 hrs 54 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 362 hrs 21 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

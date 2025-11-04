@@ -36,7 +36,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Megabonk                         🕘 21 hrs 5 mins
-🎮 일곱 개의 대죄: Origin Playtest  🕘 6 hrs 45 mins
+🎮 일곱 개의 대죄: Origin Playtest  🕘 7 hrs 29 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 365 hrs 22 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

@@ -35,9 +35,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 일곱 개의 대죄: Origin Playtest  🕘 9 hrs 12 mins
+🎮 일곱 개의 대죄: Origin Playtest  🕘 11 hrs 12 mins
 🎮 Megabonk                         🕘 21 hrs 5 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 366 hrs 17 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 366 hrs 54 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -45,7 +45,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 366 hrs 17 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 366 hrs 54 mins
 🎮 Path of Exile 2                  🕘 209 hrs 12 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins

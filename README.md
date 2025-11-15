@@ -37,6 +37,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 일곱 개의 대죄: Origin Playtest  🕘 11 hrs 12 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 370 hrs 1 mins
+🎮 Where Winds Meet                 🕘 1 hrs 31 mins
 🎮 Legends of Idleon MMO            🕘 0 hrs 29 mins
 🎮 Aimlabs                          🕘 0 hrs 4 mins
 ```

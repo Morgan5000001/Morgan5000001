@@ -35,9 +35,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 371 hrs 21 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 371 hrs 50 mins
 🎮 Where Winds Meet                 🕘 3 hrs 9 mins
-🎮 일곱 개의 대죄: Origin Playtest  🕘 11 hrs 12 mins
 🎮 Legends of Idleon MMO            🕘 0 hrs 29 mins
 🎮 Aimlabs                          🕘 0 hrs 4 mins
 ```
@@ -47,7 +46,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 371 hrs 21 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 371 hrs 50 mins
 🎮 Path of Exile 2                  🕘 209 hrs 12 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins

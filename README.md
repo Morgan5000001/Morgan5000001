@@ -37,6 +37,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 372 hrs 21 mins
 🎮 Where Winds Meet                 🕘 3 hrs 9 mins
+🎮 Chained Together                 🕘 6 hrs 27 mins
 🎮 Legends of Idleon MMO            🕘 0 hrs 29 mins
 🎮 Aimlabs                          🕘 0 hrs 4 mins
 ```

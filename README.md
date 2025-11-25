@@ -35,9 +35,10 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 372 hrs 21 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 372 hrs 47 mins
 🎮 Where Winds Meet                 🕘 3 hrs 9 mins
 🎮 Chained Together                 🕘 6 hrs 57 mins
+🔫 Counter-Strike 2                 🕘 0 hrs 32 mins
 🎮 Aimlabs                          🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
@@ -46,7 +47,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 372 hrs 21 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 372 hrs 47 mins
 🎮 Path of Exile 2                  🕘 209 hrs 12 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins

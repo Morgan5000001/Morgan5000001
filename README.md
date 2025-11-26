@@ -39,7 +39,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Where Winds Meet                 🕘 3 hrs 9 mins
 🎮 Chained Together                 🕘 6 hrs 57 mins
 🔫 Counter-Strike 2                 🕘 0 hrs 32 mins
-🎮 Aimlabs                          🕘 0 hrs 4 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

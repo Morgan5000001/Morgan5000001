@@ -35,11 +35,11 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 EA SPORTS FC 25                  🕘 18 hrs 35 mins
+🎮 EA SPORTS FC 25                  🕘 24 hrs 44 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 373 hrs 13 mins
 🎮 Chained Together                 🕘 6 hrs 57 mins
-🎮 Where Winds Meet                 🕘 3 hrs 9 mins
 🎮 DRAGON BALL: Sparking! ZERO      🕘 24 hrs 46 mins
+🔫 Counter-Strike 2                 🕘 0 hrs 32 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

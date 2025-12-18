@@ -35,7 +35,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Path of Exile 2                  🕘 238 hrs 0 mins
+🎮 Path of Exile 2                  🕘 244 hrs 16 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 380 hrs 57 mins
 🎮 Clair Obscur: Expedition 33      🕘 67 hrs 28 mins
 🎮 PEAK                             🕘 15 hrs 26 mins
@@ -47,7 +47,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Steam playtime leaderboard
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 380 hrs 57 mins
-🎮 Path of Exile 2                  🕘 238 hrs 0 mins
+🎮 Path of Exile 2                  🕘 244 hrs 16 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins
 🎮 Clair Obscur: Expedition 33      🕘 67 hrs 28 mins

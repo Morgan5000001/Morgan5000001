@@ -36,9 +36,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Path of Exile 2                  🕘 262 hrs 29 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 380 hrs 57 mins
 🎮 Clair Obscur: Expedition 33      🕘 67 hrs 28 mins
 🎮 PEAK                             🕘 15 hrs 26 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 380 hrs 57 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

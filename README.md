@@ -36,7 +36,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
-🎮 Big Ambitions                    🕘 5 hrs 24 mins
+🎮 Big Ambitions                    🕘 11 hrs 30 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 381 hrs 52 mins
 🎮 PEAK                             🕘 15 hrs 26 mins
 ```

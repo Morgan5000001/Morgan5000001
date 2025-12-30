@@ -36,9 +36,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
-🎮 Big Ambitions                    🕘 11 hrs 30 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 381 hrs 52 mins
-🎮 PEAK                             🕘 15 hrs 26 mins
+🎮 Big Ambitions                    🕘 18 hrs 25 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 382 hrs 19 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -46,7 +45,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 381 hrs 52 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 382 hrs 19 mins
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins

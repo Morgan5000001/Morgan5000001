@@ -36,7 +36,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Big Ambitions                    🕘 19 hrs 14 mins
-🎮 Texas Hold'em Poker: Pokerist    🕘 8 hrs 8 mins
+🎮 Texas Hold'em Poker: Pokerist    🕘 8 hrs 11 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 385 hrs 4 mins
 🎮 Upload Labs                      🕘 1 hrs 22 mins
 🎮 REMATCH                          🕘 32 hrs 36 mins

@@ -37,7 +37,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 Big Ambitions                    🕘 19 hrs 14 mins
 🎮 Texas Hold'em Poker: Pokerist    🕘 8 hrs 11 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 385 hrs 4 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 385 hrs 6 mins
 🎮 Upload Labs                      🕘 1 hrs 22 mins
 🎮 REMATCH                          🕘 32 hrs 36 mins
 ```
@@ -47,7 +47,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 385 hrs 4 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 385 hrs 6 mins
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins

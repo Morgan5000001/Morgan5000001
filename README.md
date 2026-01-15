@@ -35,10 +35,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Texas Hold'em Poker: Pokerist    🕘 9 hrs 34 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 385 hrs 6 mins
+🎮 Texas Hold'em Poker: Pokerist    🕘 9 hrs 37 mins
 🎮 REMATCH                          🕘 32 hrs 36 mins
-🎮 Upload Labs                      🕘 1 hrs 22 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 385 hrs 6 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

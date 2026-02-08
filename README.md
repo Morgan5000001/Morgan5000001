@@ -35,8 +35,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Shape of Dreams                  🕘 0 hrs 57 mins
-🎮 WAKFU                            🕘 0 hrs 11 mins
 🎮 Cooking Simulator                🕘 8 hrs 9 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

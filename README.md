@@ -35,7 +35,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🃏 Balatro                          🕘 15 hrs 15 mins
+🎮 DRAGON BALL Z: KAKAROT           🕘 16 hrs 48 mins
+🃏 Balatro                          🕘 15 hrs 46 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

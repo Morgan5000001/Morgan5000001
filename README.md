@@ -35,7 +35,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 DRAGON BALL Z: KAKAROT           🕘 21 hrs 14 mins
+🎮 DRAGON BALL Z: KAKAROT           🕘 23 hrs 19 mins
+🎮 DRAGON BALL XENOVERSE 2          🕘 33 hrs 14 mins
 🃏 Balatro                          🕘 15 hrs 46 mins
 🎮 Megabonk                         🕘 21 hrs 11 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 387 hrs 2 mins

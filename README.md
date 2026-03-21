@@ -35,11 +35,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 The Seven Deadly Sins: Origin    🕘 40 hrs 21 mins
+🎮 The Seven Deadly Sins: Origin    🕘 50 hrs 20 mins
 🎮 DRAGON BALL XENOVERSE 2          🕘 35 hrs 52 mins
 🎮 DRAGON BALL Z: KAKAROT           🕘 23 hrs 41 mins
-🎮 Megabonk                         🕘 21 hrs 11 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 387 hrs 2 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

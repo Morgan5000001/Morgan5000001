@@ -35,7 +35,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 The Seven Deadly Sins: Origin    🕘 50 hrs 20 mins
+🎮 The Seven Deadly Sins: Origin    🕘 61 hrs 41 mins
 🎮 DRAGON BALL XENOVERSE 2          🕘 35 hrs 52 mins
 🎮 DRAGON BALL Z: KAKAROT           🕘 23 hrs 41 mins
 ```

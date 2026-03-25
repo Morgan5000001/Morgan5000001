@@ -35,7 +35,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 The Seven Deadly Sins: Origin    🕘 74 hrs 4 mins
+🎮 The Seven Deadly Sins: Origin    🕘 79 hrs 31 mins
 🎮 DRAGON BALL XENOVERSE 2          🕘 35 hrs 52 mins
 🎮 DRAGON BALL Z: KAKAROT           🕘 23 hrs 41 mins
 ```
@@ -49,7 +49,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins
-🎮 The Seven Deadly Sins: Origin    🕘 74 hrs 4 mins
+🎮 The Seven Deadly Sins: Origin    🕘 79 hrs 31 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->

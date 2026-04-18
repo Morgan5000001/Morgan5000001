@@ -35,9 +35,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 The Seven Deadly Sins: Origin    🕘 117 hrs 34 mins
+🎮 The Seven Deadly Sins: Origin    🕘 118 hrs 1 mins
+🎮 Soulstone Survivors              🕘 18 hrs 15 mins
 🎮 Cooking Simulator                🕘 10 hrs 38 mins
-🎮 Soulstone Survivors              🕘 15 hrs 56 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 389 hrs 14 mins
 🎮 Fantasy Blacksmith Simulator Playtest 🕘 0 hrs 55 mins
 ```
@@ -49,7 +49,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 389 hrs 14 mins
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
-🎮 The Seven Deadly Sins: Origin    🕘 117 hrs 34 mins
+🎮 The Seven Deadly Sins: Origin    🕘 118 hrs 1 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 Albion Online                    🕘 83 hrs 51 mins
 ```

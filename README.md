@@ -35,8 +35,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 ELDEN RING                       🕘 83 hrs 8 mins
-🎮 The Seven Deadly Sins: Origin    🕘 119 hrs 41 mins
+🎮 ELDEN RING                       🕘 85 hrs 2 mins
+🎮 The Seven Deadly Sins: Origin    🕘 119 hrs 58 mins
 🎮 Soulstone Survivors              🕘 18 hrs 15 mins
 🎮 Cooking Simulator                🕘 10 hrs 38 mins
 🎮 Fantasy Blacksmith Simulator Playtest 🕘 0 hrs 55 mins
@@ -49,9 +49,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 389 hrs 14 mins
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
-🎮 The Seven Deadly Sins: Origin    🕘 119 hrs 41 mins
+🎮 The Seven Deadly Sins: Origin    🕘 119 hrs 58 mins
 🎮 Waven                            🕘 96 hrs 49 mins
-🎮 Albion Online                    🕘 83 hrs 51 mins
+🎮 ELDEN RING                       🕘 85 hrs 2 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-playtime end -->

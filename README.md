@@ -36,7 +36,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 ELDEN RING                       🕘 94 hrs 39 mins
-🎮 The Seven Deadly Sins: Origin    🕘 131 hrs 50 mins
+🎮 The Seven Deadly Sins: Origin    🕘 132 hrs 8 mins
 🎮 EA SPORTS FC 25                  🕘 29 hrs 1 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 391 hrs 16 mins
 🎮 eFootball™                       🕘 1 hrs 36 mins
@@ -49,7 +49,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 391 hrs 16 mins
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
-🎮 The Seven Deadly Sins: Origin    🕘 131 hrs 50 mins
+🎮 The Seven Deadly Sins: Origin    🕘 132 hrs 8 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 🎮 ELDEN RING                       🕘 94 hrs 39 mins
 ```

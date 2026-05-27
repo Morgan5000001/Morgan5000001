@@ -37,8 +37,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 Albion Online                    🕘 171 hrs 22 mins
 🎮 V Rising                         🕘 15 hrs 46 mins
-🎮 The Seven Deadly Sins: Origin    🕘 136 hrs 51 mins
-🎮 Marvel Rivals                    🕘 1 hrs 23 mins
+🎮 The Seven Deadly Sins: Origin    🕘 136 hrs 57 mins
+🎮 Marvel Rivals                    🕘 1 hrs 56 mins
 🎮 Shape of Dreams                  🕘 1 hrs 32 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
@@ -50,7 +50,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 BLEACH Brave Souls - 3D Action   🕘 391 hrs 47 mins
 🎮 Path of Exile 2                  🕘 263 hrs 29 mins
 🎮 Albion Online                    🕘 171 hrs 22 mins
-🎮 The Seven Deadly Sins: Origin    🕘 136 hrs 51 mins
+🎮 The Seven Deadly Sins: Origin    🕘 136 hrs 57 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

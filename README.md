@@ -38,7 +38,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Albion Online                    🕘 171 hrs 22 mins
 🎮 V Rising                         🕘 15 hrs 46 mins
 🎮 The Seven Deadly Sins: Origin    🕘 136 hrs 57 mins
-🎮 Marvel Rivals                    🕘 1 hrs 56 mins
+🎮 Marvel Rivals                    🕘 2 hrs 21 mins
 🎮 Shape of Dreams                  🕘 1 hrs 32 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

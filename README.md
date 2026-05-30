@@ -36,8 +36,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Albion Online                    🕘 171 hrs 22 mins
-🎮 V Rising                         🕘 15 hrs 46 mins
 🎮 Marvel Rivals                    🕘 2 hrs 21 mins
+🎮 Tiny Terraces Demo               🕘 1 hrs 37 mins
 🎮 The Seven Deadly Sins: Origin    🕘 136 hrs 57 mins
 🎮 Shape of Dreams                  🕘 1 hrs 32 mins
 ```
@@ -48,7 +48,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Steam playtime leaderboard
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 391 hrs 47 mins
-🎮 Path of Exile 2                  🕘 263 hrs 33 mins
+🎮 Path of Exile 2                  🕘 263 hrs 36 mins
 🎮 Albion Online                    🕘 171 hrs 22 mins
 🎮 The Seven Deadly Sins: Origin    🕘 136 hrs 57 mins
 🎮 Waven                            🕘 96 hrs 49 mins

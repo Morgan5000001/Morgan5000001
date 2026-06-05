@@ -35,11 +35,11 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Albion Online                    🕘 171 hrs 22 mins
 🎮 Path of Exile 2                  🕘 267 hrs 13 mins
+🎮 Albion Online                    🕘 171 hrs 22 mins
 🎮 Marvel Rivals                    🕘 2 hrs 21 mins
 🎮 Tiny Terraces Demo               🕘 1 hrs 37 mins
-🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 9 mins
+🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 43 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->
@@ -50,7 +50,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 BLEACH Brave Souls - 3D Action   🕘 391 hrs 47 mins
 🎮 Path of Exile 2                  🕘 267 hrs 13 mins
 🎮 Albion Online                    🕘 171 hrs 22 mins
-🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 9 mins
+🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 43 mins
 🎮 Waven                            🕘 96 hrs 49 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

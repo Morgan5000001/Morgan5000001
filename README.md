@@ -39,7 +39,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Marvel Rivals                    🕘 2 hrs 21 mins
 🎮 Tiny Terraces Demo               🕘 1 hrs 37 mins
 🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 43 mins
-🎮 Albion Online                    🕘 171 hrs 22 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

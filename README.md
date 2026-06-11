@@ -38,7 +38,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Path of Exile 2                  🕘 267 hrs 13 mins
 🎮 Tiny Terraces Demo               🕘 1 hrs 37 mins
 🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 43 mins
-🎮 Marvel Rivals                    🕘 2 hrs 21 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

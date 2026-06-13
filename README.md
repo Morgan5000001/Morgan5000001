@@ -36,7 +36,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Path of Exile 2                  🕘 267 hrs 13 mins
-🎮 Tiny Terraces Demo               🕘 1 hrs 37 mins
 🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 43 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

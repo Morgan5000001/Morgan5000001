@@ -35,7 +35,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 43 mins
 🎮 DRAGON BALL: Sparking! ZERO      🕘 25 hrs 14 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

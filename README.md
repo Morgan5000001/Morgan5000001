@@ -35,9 +35,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 400 hrs 37 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 400 hrs 58 mins
 🎮 REMATCH                          🕘 41 hrs 17 mins
-🎮 Gamble With Your Friends         🕘 1 hrs 19 mins
+🎮 Gamble With Your Friends         🕘 1 hrs 31 mins
 🎮 Clair Obscur: Expedition 33      🕘 68 hrs 0 mins
 🎮 DRAGON BALL XENOVERSE 2          🕘 36 hrs 16 mins
 ```
@@ -47,7 +47,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 400 hrs 37 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 400 hrs 58 mins
 🎮 Path of Exile 2                  🕘 267 hrs 13 mins
 🎮 Albion Online                    🕘 171 hrs 22 mins
 🎮 The Seven Deadly Sins: Origin    🕘 137 hrs 46 mins

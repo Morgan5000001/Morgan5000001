@@ -37,7 +37,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 400 hrs 58 mins
 🎮 REMATCH                          🕘 41 hrs 17 mins
-🎮 Gamble With Your Friends         🕘 1 hrs 31 mins
+🎮 Gamble With Your Friends         🕘 3 hrs 19 mins
 🎮 Clair Obscur: Expedition 33      🕘 68 hrs 0 mins
 🎮 DRAGON BALL XENOVERSE 2          🕘 36 hrs 16 mins
 ```

@@ -37,9 +37,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 BLEACH Brave Souls - 3D Action   🕘 432 hrs 13 mins
 🎮 REMATCH                          🕘 46 hrs 13 mins
-🎮 EA SPORTS FC 25                  🕘 36 hrs 50 mins
 🎮 The Seven Deadly Sins: Origin    🕘 138 hrs 47 mins
 🎮 BOMBANANA! Demo                  🕘 0 hrs 53 mins
+🎮 Gamble With Your Friends         🕘 4 hrs 0 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

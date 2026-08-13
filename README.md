@@ -63,4 +63,5 @@ Bill's Savon Tycoon (GGJ 2025)
 
 Edge of Nest0r (Mega Stack O Jam)
 - https://itch.io/jam/mega-stack-o-jam/rate/3828958
+
 📫 Feel free to reach out: morgan.lac2002@gmail.com

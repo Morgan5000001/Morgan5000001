@@ -36,8 +36,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 Recently played Steam games
 ```text
 🎮 Megabonk                         🕘 28 hrs 8 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 432 hrs 24 mins
 🎮 PEAK                             🕘 18 hrs 38 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 432 hrs 34 mins
 🎮 The Seven Deadly Sins: Origin    🕘 139 hrs 2 mins
 🎮 REMATCH                          🕘 46 hrs 13 mins
 ```
@@ -47,7 +47,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 432 hrs 24 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 432 hrs 34 mins
 🎮 Path of Exile 2                  🕘 267 hrs 13 mins
 🎮 Albion Online                    🕘 171 hrs 22 mins
 🎮 The Seven Deadly Sins: Origin    🕘 139 hrs 2 mins

@@ -39,7 +39,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 PEAK                             🕘 18 hrs 38 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 432 hrs 34 mins
 🎮 The Seven Deadly Sins: Origin    🕘 139 hrs 2 mins
-🎮 REMATCH                          🕘 46 hrs 13 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

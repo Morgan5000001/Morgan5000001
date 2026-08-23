@@ -37,7 +37,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 Megabonk                         🕘 28 hrs 8 mins
 🎮 PEAK                             🕘 18 hrs 38 mins
-🎮 BLEACH Brave Souls - 3D Action   🕘 432 hrs 59 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 433 hrs 33 mins
 🎮 The Seven Deadly Sins: Origin    🕘 139 hrs 4 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
@@ -46,7 +46,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-playtime start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 432 hrs 59 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 433 hrs 33 mins
 🎮 Path of Exile 2                  🕘 267 hrs 13 mins
 🎮 Albion Online                    🕘 171 hrs 22 mins
 🎮 The Seven Deadly Sins: Origin    🕘 139 hrs 4 mins

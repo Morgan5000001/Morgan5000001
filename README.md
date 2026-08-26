@@ -35,9 +35,9 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 Megabonk                         🕘 28 hrs 8 mins
-🎮 Texas Hold'em Poker: Pokerist    🕘 14 hrs 16 mins
+🎮 Texas Hold'em Poker: Pokerist    🕘 14 hrs 46 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 434 hrs 51 mins
+🎮 Megabonk                         🕘 28 hrs 8 mins
 🎮 The Seven Deadly Sins: Origin    🕘 139 hrs 4 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

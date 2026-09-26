@@ -35,8 +35,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 BLEACH Brave Souls - 3D Action   🕘 447 hrs 31 mins
 🎮 How to Fish                      🕘 4 hrs 22 mins
+🎮 BLEACH Brave Souls - 3D Action   🕘 447 hrs 31 mins
 🎮 The Seven Deadly Sins: Origin    🕘 148 hrs 5 mins
 🎮 Texas Hold'em Poker: Pokerist    🕘 16 hrs 53 mins
 🎮 DRAGON BALL GEKISHIN SQUADRA     🕘 0 hrs 30 mins

@@ -38,7 +38,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 🎮 BLEACH Brave Souls - 3D Action   🕘 447 hrs 56 mins
 🎮 The Seven Deadly Sins: Origin    🕘 148 hrs 9 mins
 🎮 DRAGON BALL GEKISHIN SQUADRA     🕘 0 hrs 30 mins
-🎮 Aniimo                           🕘 0 hrs 7 mins
 🎮 REMATCH                          🕘 46 hrs 17 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->

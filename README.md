@@ -35,8 +35,8 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
+🎮 AION 2                           🕘 4 hrs 58 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 449 hrs 29 mins
-🎮 DRAGON BALL GEKISHIN SQUADRA     🕘 0 hrs 30 mins
 🎮 The Seven Deadly Sins: Origin    🕘 148 hrs 9 mins
 🎮 REMATCH                          🕘 46 hrs 17 mins
 ```

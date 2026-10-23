@@ -37,7 +37,6 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 ```text
 🎮 AION 2                           🕘 31 hrs 38 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 449 hrs 54 mins
-🎮 The Seven Deadly Sins: Origin    🕘 148 hrs 15 mins
 ```
 <!-- Powered by https://github.com/torresflo/steam-box-for-readme . -->
 <!-- steam-box-recent end -->

@@ -35,7 +35,7 @@ I'm passionate about building flexible, modular gameplay architectures and exper
 <!-- steam-box-recent start -->
 🎮 Recently played Steam games
 ```text
-🎮 AFK Journey                      🕘 15 hrs 45 mins
+🎮 AFK Journey                      🕘 17 hrs 40 mins
 🎮 BLEACH Brave Souls - 3D Action   🕘 452 hrs 9 mins
 🎮 Cities: Skylines II              🕘 0 hrs 36 mins
 🎮 Jujutsu Kaisen Phantom Parade    🕘 0 hrs 17 mins
